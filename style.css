@@ -63,7 +63,7 @@ header li a {
 /* **************** IMAGE PRINCIPALE ************* */
 #imagePrincipale {
   padding-top: 60px;
-  background: url(media/bg1234.png) no-repeat fixed 50% 50%;
+  background: url(bg1234.png) no-repeat fixed 50% 50%;
   background-size: cover;
   height: 799px;
 }
@@ -147,16 +147,16 @@ h3 {
 
 }
 #esport {
-  background: url(media/esport2.jpeg);
+  background: url(esport2.jpeg);
 }
 #store {
-  background: url(media/token3.jpg);
+  background: url(token3.jpg);
 }
 #event {
-  background: url(media/event123.jpg);
+  background: url(event123.jpg);
 }
 #vignoble {
-  background: url(media/store.jpeg);
+  background: url(store.jpeg);
 }
 #tourisme li {
   margin: 65px 100px 0 100px;
